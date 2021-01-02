@@ -1,0 +1,48 @@
+D:\Programs\Git Repositories\procp_project_current\ProCP_App\ProCP_App\bin\Debug\ProCP_App.exe.config
+D:\Programs\Git Repositories\procp_project_current\ProCP_App\ProCP_App\bin\Debug\ProCP_App.exe
+D:\Programs\Git Repositories\procp_project_current\ProCP_App\ProCP_App\bin\Debug\ProCP_App.pdb
+D:\Programs\Git Repositories\procp_project_current\ProCP_App\ProCP_App\obj\Debug\ProCP_App.Form1.resources
+D:\Programs\Git Repositories\procp_project_current\ProCP_App\ProCP_App\obj\Debug\ProCP_App.inputForm.resources
+D:\Programs\Git Repositories\procp_project_current\ProCP_App\ProCP_App\obj\Debug\ProCP_App.Properties.Resources.resources
+D:\Programs\Git Repositories\procp_project_current\ProCP_App\ProCP_App\obj\Debug\ProCP_App.SortingArea.resources
+D:\Programs\Git Repositories\procp_project_current\ProCP_App\ProCP_App\obj\Debug\ProCP_App.csproj.GenerateResource.cache
+D:\Programs\Git Repositories\procp_project_current\ProCP_App\ProCP_App\obj\Debug\ProCP_App.csproj.CoreCompileInputs.cache
+D:\Programs\Git Repositories\procp_project_current\ProCP_App\ProCP_App\obj\Debug\ProCP_App.exe
+D:\Programs\Git Repositories\procp_project_current\ProCP_App\ProCP_App\obj\Debug\ProCP_App.pdb
+D:\Programs\Git Repositories\procp_project_current\ProCP_App\ProCP_App\obj\Debug\ProCP_App.csprojAssemblyReference.cache
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\ProCP_App\bin\Debug\ProCP_App.exe.config
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\ProCP_App\bin\Debug\ProCP_App.exe
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\ProCP_App\bin\Debug\ProCP_App.pdb
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.csprojAssemblyReference.cache
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.Form1.resources
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.inputForm.resources
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.Properties.Resources.resources
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.SortingArea.resources
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.csproj.GenerateResource.cache
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.csproj.CoreCompileInputs.cache
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.exe
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.pdb
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.csprojAssemblyReference.cache
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.Form1.resources
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.inputForm.resources
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.Properties.Resources.resources
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.SortingArea.resources
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.csproj.GenerateResource.cache
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.csproj.CoreCompileInputs.cache
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.exe
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.pdb
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\ProCP_App\bin\Debug\ProCP_App.exe.config
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\ProCP_App\bin\Debug\ProCP_App.exe
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\ProCP_App\bin\Debug\ProCP_App.pdb
+D:\Programs\Git Repositories\procp_project\ProCP_App\ProCP_App\bin\Debug\ProCP_App.exe.config
+D:\Programs\Git Repositories\procp_project\ProCP_App\ProCP_App\bin\Debug\ProCP_App.exe
+D:\Programs\Git Repositories\procp_project\ProCP_App\ProCP_App\bin\Debug\ProCP_App.pdb
+D:\Programs\Git Repositories\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.csprojAssemblyReference.cache
+D:\Programs\Git Repositories\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.Form1.resources
+D:\Programs\Git Repositories\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.inputForm.resources
+D:\Programs\Git Repositories\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.Properties.Resources.resources
+D:\Programs\Git Repositories\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.SortingArea.resources
+D:\Programs\Git Repositories\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.csproj.GenerateResource.cache
+D:\Programs\Git Repositories\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.csproj.CoreCompileInputs.cache
+D:\Programs\Git Repositories\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.exe
+D:\Programs\Git Repositories\procp_project\ProCP_App\ProCP_App\obj\Debug\ProCP_App.pdb

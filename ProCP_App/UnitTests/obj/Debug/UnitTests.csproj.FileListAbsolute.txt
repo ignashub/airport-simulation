@@ -1,0 +1,51 @@
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\bin\Debug\ProCP_App.exe
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\bin\Debug\ProCP_App.pdb
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\bin\Debug\ProCP_App.exe.config
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\fruji\OneDrive\Documents\PROCP\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\bin\Debug\ProCP_App.exe
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\bin\Debug\ProCP_App.pdb
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\bin\Debug\ProCP_App.exe.config
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Artemiy Chervinskyy\Desktop\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.pdb
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\bin\Debug\UnitTests.dll
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\bin\Debug\UnitTests.pdb
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\bin\Debug\ProCP_App.exe
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\bin\Debug\ProCP_App.pdb
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\bin\Debug\ProCP_App.exe.config
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.dll
+D:\Programs\Git Repositories\procp_project\ProCP_App\UnitTests\obj\Debug\UnitTests.pdb
